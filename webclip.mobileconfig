@@ -19,7 +19,7 @@
             <key>PayloadDisplayName</key>
             <string> Yousf Store</string>
             <key>PayloadIdentifier</key>
-            <string>com.kurd.ariپا كێج بۆ نموونه‌</string>
+            <string>www.yousf.tk</string>
             <key>PayloadOrganization</key>
             <string>Yousf Store</string>
             <key>PayloadType</key>
@@ -31,7 +31,7 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string></www.yousf.tk></string>
+            <string><www.yousf.tk></string>
         </dict>
     </array>
     <key>PayloadDescription</key>
